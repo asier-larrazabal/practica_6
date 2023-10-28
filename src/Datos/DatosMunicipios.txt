@@ -1,0 +1,64 @@
+1	Madrid	3 286 662	 Madrid	 Comunidad de Madrid
+2	Barcelona	1 636 193	 Barcelona	 Cataluña
+3	Valencia	792 492	Valencia	 Comunidad Valenciana
+4	Zaragoza	694 109	 Zaragoza	 Aragón
+5	Sevilla	681 998	 Sevilla	 Andalucía
+6	Málaga	579 076	 Málaga	 Andalucía
+7	Murcia	462 979	 Región de Murcia
+8	Palma de Mallorca	415 940	 Islas Baleares
+9	Las Palmas de Gran Canaria	378 797	Las Palmas	 Canarias
+10	Bilbao	344 127	 Vizcaya	 País Vasco
+11	Alicante	338 577	Alicante	 Comunidad Valenciana
+12	Córdoba	319 515	 Córdoba	 Andalucía
+13	Valladolid	295 639	 Valladolid	 Castilla y León
+14	Vigo	292 374	 Pontevedra	 Galicia
+15	Gijón	267 706	 Principado de Asturias
+16	Hospitalet de Llobregat	265 444	 Barcelona	 Cataluña
+17	Vitoria	253 672	 Álava	 País Vasco
+18	La Coruña	244 700	La Coruña	 Galicia
+19	Elche	235 580	Alicante	 Comunidad Valenciana
+20	Granada	228 682	 Granada	 Andalucía
+21	Tarrasa	224 114	 Barcelona	 Cataluña
+22	Badalona	223 506	 Barcelona	 Cataluña
+23	Cartagena	216 961	 Región de Murcia
+24	Sabadell	215 760	 Barcelona	 Cataluña
+25	Oviedo	215 167	 Principado de Asturias
+26	Jerez de la Frontera	212 730	 Cádiz	 Andalucía
+27	Móstoles	208 761	 Comunidad de Madrid
+28	Santa Cruz de Tenerife	208 688	Santa Cruz de Tenerife	 Canarias
+29	Pamplona	203 418	 Navarra
+30	Almería	199 237	 Almería	 Andalucía
+31	Alcalá de Henares	196 888	 Comunidad de Madrid
+32	Fuenlabrada	189 891	 Comunidad de Madrid
+33	San Sebastián	187 849	 Guipúzcoa	 País Vasco
+34	Leganés	186 660	 Comunidad de Madrid
+35	Getafe	183 218	 Comunidad de Madrid
+36	Burgos	173 483	 Burgos	 Castilla y León
+37	Albacete	172 357	 Albacete	 Castilla-La Mancha
+38	Castellón de la Plana	171 857	Castellón	 Comunidad Valenciana
+39	Santander	171 693	 Cantabria
+40	Alcorcón	170 296	 Comunidad de Madrid
+41	San Cristóbal de La Laguna	157 815	Santa Cruz de Tenerife	 Canarias
+42	Marbella	150 725	 Málaga	 Andalucía
+43	Badajoz	150 146	 Badajoz	 Extremadura
+44	Logroño	150 020	 La Rioja
+45	Salamanca	142 412	 Salamanca	 Castilla y León
+46	Huelva	141 854	 Huelva	 Andalucía
+47	Lérida	140 797	Lérida	 Cataluña
+48	Dos Hermanas	137 561	 Sevilla	 Andalucía
+49	Tarragona	134 883	 Tarragona	 Cataluña
+50	Torrejón de Ardoz	134 733	 Comunidad de Madrid
+51	Parla	130 577	 Comunidad de Madrid
+52	Mataró	128 956	 Barcelona	 Cataluña
+53	Algeciras	122 368	 Cádiz	 Andalucía
+54	León	120 951	 León	 Castilla y León
+55	Santa Coloma de Gramanet	117 981	 Barcelona	 Cataluña
+56	Alcobendas	117 041	 Comunidad de Madrid
+57	Cádiz	113 066	 Cádiz	 Andalucía
+58	Jaén	111 669	 Jaén	 Andalucía
+59	Reus	106 741	 Tarragona	 Cataluña
+60	Orense	103 756	 Orense	 Galicia
+61	Roquetas de Mar	102 881	 Almería	 Andalucía
+62	Gerona	102 666	Gerona	 Cataluña
+63	Telde	102 472	Las Palmas	 Canarias
+64	Barakaldo	100 535	 Vizcaya	 País Vasco
