@@ -6,8 +6,8 @@ import java.io.IOException;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-import resource.Tree;
-import resource.DataSet.DataSetMunicipios;
+import recursos.Tree;
+import recursos.DataSet.DataSetMunicipios;
 
 public class Ejercicio06_03 {
 	
