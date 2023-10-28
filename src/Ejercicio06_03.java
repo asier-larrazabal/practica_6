@@ -14,9 +14,9 @@ public class Ejercicio06_03 {
 	private static DataSetMunicipios dataMunis;
 	public static JFrame window;
 	public static void main(String[] args) {
-		window = new JFrame( "Ejercicio 6.3" );
+		window = new JFrame( "Practica 6" );
 		window.setLocationRelativeTo( null );
-		window.setSize( 200, 80 );
+		window.setSize( 400, 80 );
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		JButton btnCarga = new JButton( "Cargar municipios > 100k" );
 		window.add( btnCarga );
@@ -35,7 +35,6 @@ public class Ejercicio06_03 {
 		try {
 			dataMunis = new DataSetMunicipios( "src\\Datos\\DatosMunicipios.txt" );
 			new Tree();
-			// TODO Resolver el ejercicio 6.3
 		} catch (IOException e) {
 			System.err.println( "Ha habido un error al caragar los municipios" );
 		}
